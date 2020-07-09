@@ -14,7 +14,7 @@ export const Container = styled.div`
     overflow-y: scroll;
 
     ::-webkit-scrollbar { /**barra de rolagem */
-        width: 4px;
+        width: 8px;
     }
 
     ::-webkit-scrollbar-thumb {
