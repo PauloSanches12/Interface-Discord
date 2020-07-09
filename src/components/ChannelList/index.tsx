@@ -12,7 +12,7 @@ const ServerName: React.FC = () => {
 
         <ChannelButton channelName="chat-livre" />
         <ChannelButton channelName="trabalho" />
-        <ChannelButton channelName="lozinho" />
+        <ChannelButton channelName="lolzinho" />
         <ChannelButton channelName="csgo" />
         <ChannelButton channelName="valorant" />
        </Container>
