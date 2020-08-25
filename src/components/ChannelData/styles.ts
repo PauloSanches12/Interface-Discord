@@ -57,7 +57,7 @@ export const Input = styled.input`
 
   ~ svg {
     position: relative;
-    top: -50%;
+    top: -33px;
     left: 14px;
     transition: 180ms ease-in-out;
   }
@@ -67,6 +67,6 @@ export const Input = styled.input`
 export const  InputIcon = styled(AlternateEmail)`
     width: 24px;
     height: 24px;
-
+   
     color: var(--gray);
 `;
